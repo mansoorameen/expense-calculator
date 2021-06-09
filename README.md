@@ -1,6 +1,6 @@
 # expense-calculator
 
-Coding a personal expense calculator using js.
+A personal expense calculator using js.
 
 Features:
 *Included placeholder for input fields i.e, amount spent and on what(description)
